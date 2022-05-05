@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vaccine_book/static/css/main.b99874f4.css",
+    "main.js": "/vaccine_book/static/js/main.9d4aae87.js",
+    "static/js/787.eda4dedf.chunk.js": "/vaccine_book/static/js/787.eda4dedf.chunk.js",
+    "index.html": "/vaccine_book/index.html",
+    "main.b99874f4.css.map": "/vaccine_book/static/css/main.b99874f4.css.map",
+    "main.9d4aae87.js.map": "/vaccine_book/static/js/main.9d4aae87.js.map",
+    "787.eda4dedf.chunk.js.map": "/vaccine_book/static/js/787.eda4dedf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b99874f4.css",
+    "static/js/main.9d4aae87.js"
+  ]
+}
